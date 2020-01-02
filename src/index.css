@@ -1,0 +1,9 @@
+.submitButtons {
+    display: block;
+    margin-bottom: 24px;
+    white-space: nowrap;
+}
+.logo{
+	width: 100px;
+	height: 100px;
+}
