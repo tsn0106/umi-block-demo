@@ -1,5 +1,5 @@
 {
-  "name": "@umi-block/banner-block-demo",
+  "name": "@umi-block/bannerBlockDemo",
   "version": "0.0.1",
   "description": "banners picture",
   "main": "src/index.js",
